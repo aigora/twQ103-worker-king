@@ -6,7 +6,8 @@ Elaboracion de nominas.
 
 ## Integrantes del equipo
 Sergio Torres Madrazo, sergiotorresmadrazo.
-N
+Juan Santamaría Lillo, juansantamaria.
+Adrián Muñoz Molina, AdrianMunozMolina.
 ## Objetivos del trabajo
 
 APLICACIÓN INFORMATICA PARA EL  DEPARTAMENTO DE  RRHH.
