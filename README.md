@@ -1,11 +1,26 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Aplicacion informatica para el departamento de RRHH de una epresa.
+Gestion de datos de filiacion de empleados.
+Elaboracion de nominas.
 
 ## Integrantes del equipo
-
-Adrian Muñoz Molina (@AdrianMunozMolina)
+Sergio Torres Madrazo, sergiotorresmadrazo.
+Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+APLICACIÓN INFORMATICA PARA EL  DEPARTAMENTO DE  RRHH.
+
+Una empresa requiere de una aplicación informática para su departamento de Recursos Humanos, desde la que se puedan grabar los datos básicos de filiación de sus empleados, como pueden ser:
+•	DNI 
+•	Nombre, apellidos 
+•	Domicilio 
+•	Teléfono de contacto
+•	Categoría laboral
+•	Antigüedad en la empresa
+•	Cuenta bancaria
+•	Etc.
+Por otro lado esta empresa dispone de un capital, que puede emplear para contratar horas extras a sus empleados, por lo que precisa también una forma de grabación de estas horas en la aplicación informática de tal forma que se puedan calcular las nominas de sus empleados para cada mes.
+La aplicación ha de tener la posibilidad de dar altas, consultas o modificación de de los datos de sus empleados, y el computo de horas extras y el importe de las mismas atendiendo a su categoría laboral.
+Elaboracion mensual de las nominas de los empleados, o simulacion de una carrespondiente a un empleado. 
