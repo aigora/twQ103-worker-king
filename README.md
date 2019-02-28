@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Aplicacion informatica para el departamento de RRHH de una epresa.
+Aplicacion informatica para el departamento de RRHH de una empresa.
 Gestion de datos de filiacion de empleados.
 Elaboracion de nominas.
 
