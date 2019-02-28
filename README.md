@@ -6,8 +6,7 @@ Elaboracion de nominas.
 
 ## Integrantes del equipo
 Sergio Torres Madrazo, sergiotorresmadrazo.
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
-
+N
 ## Objetivos del trabajo
 
 APLICACIÓN INFORMATICA PARA EL  DEPARTAMENTO DE  RRHH.
