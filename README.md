@@ -22,4 +22,4 @@ Una empresa requiere de una aplicación informática para su departamento de Rec
 •	Etc.
 Por otro lado esta empresa dispone de un capital, que puede emplear para contratar horas extras a sus empleados, por lo que precisa también una forma de grabación de estas horas en la aplicación informática de tal forma que se puedan calcular las nominas de sus empleados para cada mes.
 La aplicación ha de tener la posibilidad de dar altas, consultas o modificación de de los datos de sus empleados, y el computo de horas extras y el importe de las mismas atendiendo a su categoría laboral.
-Elaboracion mensual de las nominas de los empleados, o simulacion de una carrespondiente a un empleado. 
+Elaboracion mensual de las nominas de los empleados, o simulacion de una correspondiente a un empleado. 
