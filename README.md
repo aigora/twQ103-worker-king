@@ -28,3 +28,6 @@ La aplicación ha de tener la posibilidad de:
 * Consultas o modificación de de los datos de sus empleados.
 * computo de horas extras y el importe de las mismas atendiendo a su categoría laboral.
 * Elaboracion mensual de las nominas de los empleados, o simulacion de una correspondiente a un empleado. 
+
+**Mejoras o variaciones de objetivos:**
+* Seguridad acceso por contraseña.
